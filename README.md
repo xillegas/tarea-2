@@ -1,0 +1,3 @@
+- Implementar un modelo de clasificación de imágenes simple utilizando una CNN en un conjunto de datos a escoger: KMNIST y CIFAR-10. 
+- Experimentar con diferentes hiperparámetros, como la tasa de aprendizaje, el tamaño del lote y la arquitectura de la red, y observar cómo afectan el rendimiento de la red en un problema de clasificación de imágenes simple.
+- Visualizar los mapas de características generados por diferentes capas de una CNN en un conjunto de datos de imágenes pequeñas, como entender qué características específicas están aprendiendo las capas profundas de la red
